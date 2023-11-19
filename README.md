@@ -4,23 +4,31 @@
 <ul>
   <li>
       Incorrect input to constructor 
-     <li>catches wrong input to constructor will set type to null</li>
+    <ul>
+       <li>catches wrong input to constructor will set type to null</li>
+    </ul>
   </li>
 
   <li>
     Validate correct data type 
-    <li>Inputs with incorrect values that will set triangleType to null</li>
+    <ul>
+      <li>Inputs with incorrect values that will set triangleType to null</li>
+    </ul>
   </li>
   
   <li>
     Catch error for incorrect data type 
-    <li>catches an error if incorrect data type</li>
+    <ul>
+      <li>catches an error if incorrect data type</li>
+    </ul>
   </li>
   <li>
     Validate Trinagle type
-    <li>Examples of correct input for a Scalene</li>
-    <li>Examples of correct input for a Equilateral</li>
-    <li>Examples of correct input for a Isosceles</li>
+    <ul>
+      <li>Examples of correct input for a Scalene</li>
+      <li>Examples of correct input for a Equilateral</li>
+      <li>Examples of correct input for a Isosceles</li>
+    </ul>
   </li>
 <ul/>
 
