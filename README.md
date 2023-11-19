@@ -1,9 +1,8 @@
 <h1>Miniprojekt1 TDD</h1>
 
 
+**bold text**
 <p>
-<b>IMportant Tests:</b>
-
   
 </p>
 
