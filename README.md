@@ -1,12 +1,11 @@
 <h1>Miniprojekt1 TDD</h1>
 
-<p> Important tests</p>
+<h3> Important tests</h3>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>incorrect input to constructor </li>
+  <li>Validate correct data type  </li>
+  <li>catch error for incorrect data type </li>
+  <li>Validate Trinagle type</li>
 <ul/>
 
 
