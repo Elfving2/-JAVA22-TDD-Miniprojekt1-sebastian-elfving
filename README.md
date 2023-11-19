@@ -33,7 +33,7 @@
 <ul/>
 
 
-<h2> what was hard? / Annoying to do</h2>
+<h2> what was hard? / Annoying to do?</h2>
 <p>
   Nothing in particular was really hard or annoying to do? This asignment was kinda easy and straight forward, i imagine the following assignments will me harder and handle more inputs and bigger methods. 
 </p>
